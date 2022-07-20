@@ -1,6 +1,11 @@
 '''
 Author: Silas Zhao
 Date: July 18, 2022
+
+These functions can: 
+1, separate a multi-instrument midi into different midis that contains only one instrument
+2, separate a multi-voice midi into different midis that contains only single-melody voice. 
+
 '''
 
 
